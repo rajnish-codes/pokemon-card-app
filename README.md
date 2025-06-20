@@ -8,6 +8,11 @@ A fun responsive card layout using:
 
 🔗 **Live Demo**:[https://pokemon-card-app-topaz.vercel.app/])
 
+### 📷 Preview
+
+<img src="preview.png" width="400" />
+
+---
 
 ## 🚀 What I Learned
 - How to build components with props
