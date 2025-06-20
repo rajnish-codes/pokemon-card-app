@@ -29,8 +29,8 @@ useEffect(() => {
 
 return (
 
-  <main className="min-h-screen bg-white flex items-center justify-center p-6">
-   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+  <main className=" dark:bg-gray-900 dark:text-white  text-black min-h-screen bg-green-900 flex items-center justify-center p-6">
+   <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 px-4 py-6">
     {
       pokemonList.map(pokemon => (
 

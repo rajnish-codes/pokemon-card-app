@@ -4,6 +4,7 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx}",       // Needed for Next.js app folder
     "./components/**/*.{js,ts,jsx,tsx}" // Needed for your components
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       animation: {
@@ -19,3 +20,4 @@ module.exports = {
   },
   plugins: [],
 };
+
