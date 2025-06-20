@@ -6,13 +6,13 @@ A fun responsive card layout using:
 - 🧠 React hooks (`useState`, `useEffect`)
 - 🎨 Hover & transition animations
 
-🔗 **Live Demo**: [pokemon-card-app.vercel.app]((https://pokemon-card-app-topaz.vercel.app/))
+🔗 **Live Demo**:[https://pokemon-card-app-topaz.vercel.app/])
 
 ---
 
 ### 📷 Preview
 
-<img src="(https://pokemon-card-app-topaz.vercel.app/)g" width="400" />
+<img src="[https://pokemon-card-app-topaz.vercel.app/]g" width="400" />
 
 ---
 
